@@ -8,3 +8,5 @@ Adapt as required to suit your own setup:
   2. Insert the API key into the curl string in configuration.yaml
   3. Replace the sensor names in the curl string with the correct values from your Home Assistant installation
   4. Add Enphase battery sensor data to the string if you have it
+
+Push API Reference: https://chargehq.net/kb/push-api
