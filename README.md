@@ -1,4 +1,4 @@
-# homeassistant-to-chargehq
+# homeassistant-enphase-to-chargehq
 Configuration for sending Enphase solar generation and consumption data from Home Assistant to Charge HQ
 
 This a user-contributed configuration for sending solar and home consumption data to Charge HQ via the Push API.
